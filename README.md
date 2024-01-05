@@ -20,7 +20,7 @@ pip install -r requirements.txt
 To execute the Simple Packet Sniffer, run the Python script and specify the network interface you want to sniff:
 
 ```bash
-python Simple-Packet-Sniffer.py -i <INTERFACE>
+sudo python3 Simple-Packet-Sniffer.py -i <INTERFACE>
 ```
 ## Replace <INTERFACE> with the network interface you want to monitor.
 
